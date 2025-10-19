@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/
+*-images-idx*-ubyte
+*-labels-idx*-ubyte
+
+.env/
+venv/
+.venv/
