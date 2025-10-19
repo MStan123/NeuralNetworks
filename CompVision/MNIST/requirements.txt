@@ -1,7 +1,0 @@
-torch
-torchvision
-torchmetrics
-matplotlib
-numpy
-gradio
-tqdm
